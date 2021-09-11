@@ -53,6 +53,7 @@ li {
 
 .contents-item {
   float: left;
+  width: 10px;
   margin-right: 40px;
 }
 
